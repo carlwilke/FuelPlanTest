@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Welcome to the FuelTest Application!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
